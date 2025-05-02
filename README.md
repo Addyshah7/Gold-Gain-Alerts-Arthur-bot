@@ -1,7 +1,12 @@
+<h1>Arthur Bot Landing Page</h1>
+<p>Welcome to Arthur Bot. Get real-time gold gain alerts.</p>
 
-Well come to our Gold Gain Alerts Bot 
-https://t.me/traderArthurbot 
-Do Subscribe/follow us on Telegram.
+<a href="https://t.me/traderArthurbot" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; border-radius: 8px; background-color: #0088cc; color: white; border: none; cursor: pointer;">
+        Start Bot
+    </button>
+</a>
+
 
 
 Unlock real-time insights and opportunities in the gold market with Gold Gain Alerts, powered by Arthur Bot. Designed to assist traders and investors, this intelligent bot delivers timely and accurate alerts on gold price movements, trends, and key market indicators. Whether you're a beginner or a seasoned investor, Arthur Bot helps you make informed decisions and stay ahead of the curve in the ever-changing gold market.
