@@ -1,5 +1,4 @@
-# Gold-Gain-Alerts-Arthur-bot
-@traderArthurbot
+# @TraderArthurbot
 Unlock real-time insights and opportunities in the gold market with Gold Gain Alerts, powered by Arthur Bot. Designed to assist traders and investors, this intelligent bot delivers timely and accurate alerts on gold price movements, trends, and key market indicators. Whether you're a beginner or a seasoned investor, Arthur Bot helps you make informed decisions and stay ahead of the curve in the ever-changing gold market.
 
 Key Features:
